@@ -21,7 +21,7 @@
 
 	<div id="headerStrip" class="toggleCategories fix" style="display: none;"> 
 		<ul class="fix">
-		<?php wp_list_cats('sort_column=name&optioncount=0&exclude=10, 15'); ?>
+		<?php wp_list_cats('sort_column=name&optioncount=0'); ?>
 		</ul>
 	</div>
 	
