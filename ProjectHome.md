@@ -1,0 +1,3 @@
+![http://5thirtyone.com/wp-content/uploads/2007/05/grid-focus-demo.png](http://5thirtyone.com/wp-content/uploads/2007/05/grid-focus-demo.png)
+
+WordPress Grid Focus was a personal project turned public. Grid Focus is a three column widget enabled WordPress 2.6 or 2.7+ compatible WordPress theme. Prominent navigation bar with room to share important pages. The latest update is completely optimized and stripped of any unnecessary code allowing for complete customization.
